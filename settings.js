@@ -1,16 +1,16 @@
 const settings = {
-  packname: 'Knight Bot',
+  packname: 'Keplar Bot',
   author: '‎',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
+  botName: "Keplar Bot",
+  botOwner: 'Dark-Deep', // Your name
+  ownerNumber: '916291588399', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
-  version: "3.0.7",
-  updateZipUrl: "https://github.com/mruniquehacker/Knightbot-MD/archive/refs/heads/main.zip",
+  version: "3.1.0",
+  updateZipUrl: "Not Available",
 };
 
 module.exports = settings;
